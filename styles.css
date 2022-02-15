@@ -8,5 +8,11 @@ p, a {
     font-family: 'Roboto Mono', monospace;
 }
 
+p{
+    margin: 30px;
+    font-size: 14px;
+    color: blue;
+}
+
 /*Layout*/
 
