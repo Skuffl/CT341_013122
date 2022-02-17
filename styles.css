@@ -3,10 +3,10 @@
 h1{
     font-family: 'Rubik', sans-serif;
 }
-h2{
+h2, a{
     font-family: 'Arimo', sans-serif;
 }
-p, a{
+p{
     font-family: 'EB Garamond', serif;
 }
 p{
