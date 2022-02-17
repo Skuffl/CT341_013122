@@ -1,13 +1,14 @@
 /*Typography*/
 
 h1 {
-    font-family: 'Roboto Mono', monospace;
+    font-family: 'Rubik', sans-serif;
 }
-
+h2 {
+    font-family: 'Arimo', sans-serif;
+}
 p, a {
-    font-family: 'Roboto Mono', monospace;
+    font-family: 'EB Garamond', serif;
 }
-
 p{
     margin: 30px;
     font-size: 14px;
